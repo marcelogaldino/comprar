@@ -35,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+get_network_local_ip.js

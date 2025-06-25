@@ -26,10 +26,16 @@
         "monochromeImage": "./assets/icons/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "package": "com.marcelogaldino.comprar",
       "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5946f984-90ca-493e-b708-790bdd8dd776"
+      }
     }
   }
 }
